@@ -1,0 +1,38 @@
+#i
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic; 
+    color: rgb(238, 156, 61);
+}
+#b
+{
+    background-color: yellow;
+}
+#uni
+{
+    text-decoration: underline;
+}
+#bi
+{
+    color:rgb(238, 156, 61);
+    font-style: italic;
+}
+#m
+{
+   /* color:rgb(238, 156, 61); */
+    background-color: yellow;
+}
+#link
+{
+    text-decoration: none;
+    background-color: yellow;
+    font-style: italic;
+}
+#c
+{
+    text-decoration: line-through;
+}
+#w,#x, #y, #z
+{
+    letter-spacing: 5px;
+}
